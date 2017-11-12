@@ -1,0 +1,61 @@
+#logo{
+	width: 10%;
+	padding:#;
+}
+#text{
+	text-align: center;
+	font-style: 0px;
+	color: black;
+}
+body{
+	color: white;
+	background-color: black;
+}
+h1{
+	font-size: 40px;
+	font-style:italic;
+	font-family: algerian;
+	text-align: center;
+	text-transform: uppercase;
+}
+#hr{
+	width: 40%;
+}
+ol{
+	font-size: 25px;
+	font-family: arial;
+	text-decoration: underline;
+	text-transform: capitalize;
+}
+.list{
+	font-size: 20px;
+	font-family: algerian;
+	font-style: italic;
+}
+#library{
+	width: 40%;
+}
+#students{
+	width: 40%;
+}
+h2{
+	font-size: 80px;
+	text-align: center;
+	text-decoration: none;
+	font-style: italic;
+	color: grey;
+}
+#new{
+	font-size: 20px;
+	text-transform: capitalize;
+}
+#find{
+	text-align: right;
+	font-family: castellar;
+	font-size: 30px;
+}
+#address{
+	text-align: right;
+	font-family: broadway;
+	font-family: 25px; 
+}
